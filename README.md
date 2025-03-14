@@ -49,6 +49,36 @@ Weather: Cloudy ☁️
 ## License
 This project is licensed under the MIT License.
 
+.gitignore
+To avoid tracking unnecessary files, create a .gitignore file with the following content:
+```markdown
+# Byte-compiled / Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+```
+```python
+
+Simply replace any placeholders (if needed) and you're ready to go!
+```
+
+
+
+
+
+
 ## Contributing
 Feel free to submit pull requests or report issues!
 
