@@ -50,6 +50,7 @@ Weather: Cloudy ☁️
 This project is licensed under the MIT License.
 
 .gitignore
+
 To avoid tracking unnecessary files, create a .gitignore file with the following content:
 ```markdown
 # Byte-compiled / Python artifacts
