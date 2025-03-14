@@ -23,6 +23,7 @@ pip install -r requirements.txt
 ```
 ### 3. Get an OpenWeather API Key:
 ● Sign up at OpenWeather and get an API key.
+
 ● Replace the api_key in the script with your API key.
 
 ## Usage
