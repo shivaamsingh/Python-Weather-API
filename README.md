@@ -17,11 +17,11 @@ A simple **Python Weather App** built with **PyQt5** that fetches real-time weat
 git clone https://github.com/shivaamsingh/weather-app.git
 cd weather-app
 ```
-###2. Install Dependencies:
+### 2. Install Dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-###3. Get an OpenWeather API Key:
+### 3. Get an OpenWeather API Key:
 ● Sign up at OpenWeather and get an API key.
 ● Replace the api_key in the script with your API key.
 
