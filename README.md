@@ -70,18 +70,7 @@ env/
 .DS_Store
 Thumbs.db
 ```
-```python
-
-Simply replace any placeholders (if needed) and you're ready to go!
-```
-
-
-
-
-
 
 ## Contributing
 Feel free to submit pull requests or report issues!
-
-
 
