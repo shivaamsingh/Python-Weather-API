@@ -14,7 +14,7 @@ A simple **Python Weather App** built with **PyQt5** that fetches real-time weat
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/shivaamsingh/weather-app.git
+git clone https://github.com/shivaamsingh/Python-Weather-API.git
 cd weather-app
 ```
 ### 2. Install Dependencies:
