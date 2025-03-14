@@ -31,6 +31,7 @@ pip install -r requirements.txt
 python weather_app.py
 ```
 Enter a city name and click "Get Weather".
+
 The app will display temperature, weather condition, and an emoji.
 
 ## Dependencies
